@@ -1,0 +1,15 @@
+# editorconfig.org
+# Taken line for line from Pluralsight Course on 4/26/2017
+# https://app.pluralsight.com/player?course=javascript-development-environment&author=cory-house&name=javascript-development-environment-m2&clip=4
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[*.md]
+trim_trailing_whitespace = false
